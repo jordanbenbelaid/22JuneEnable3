@@ -1,0 +1,29 @@
+package com.qa.person;
+
+public class Person {
+
+	private String name;
+	private String eyeColour;
+	private int age;
+	
+	//default constuctor
+	public Person() {	}
+	
+	//everything constructor
+	public Person(String name, String eyeColour, int age) {
+		this.name = name;
+		this.eyeColour = eyeColour;
+		this.age = age;
+	}
+	
+	public Person(String eyeColour, int age) {
+		this.eyeColour = eyeColour;
+		this.age = age;
+	}
+	
+	public Person(String name, String eyeColour) {
+		this.name = name;
+		this.eyeColour = eyeColour;
+	}
+	
+}

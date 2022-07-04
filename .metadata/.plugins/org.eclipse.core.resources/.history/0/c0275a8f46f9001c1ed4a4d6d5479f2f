@@ -1,0 +1,14 @@
+package com.qa.person;
+
+public class Person {
+
+	private String name;
+	private String eyeColour;
+	private int age;
+	
+	public Person(String name, String eyeColour, int age) {
+		this.name = name;
+		this.eyeColour = eyeColour;
+		this.age = age;
+	}
+}

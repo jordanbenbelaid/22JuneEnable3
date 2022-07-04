@@ -1,0 +1,17 @@
+package com.qa.demo;
+
+public class Conditionals {
+
+	public static void main(String[] args) {
+		
+		int num = 1;
+		
+		if(num > 3) {
+			System.out.println("The number is greater than 3");
+		} else {
+			System.out.println("The number is not more than 3");
+		}
+
+	}
+
+}
