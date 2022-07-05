@@ -31,7 +31,7 @@ public class Demo {
 		//int i = 0 - This is the start point for the loop
 		//i < 11 - This is the end point of the loop
 		//i++ - This is i increasing after each iteration of the loop by 1
-		for(int i = 0; i < 11; i++) {
+		for(int i = 1; i < 11; i++) {
 			System.out.println(i * 2);
 		}
 	
