@@ -4015,3 +4015,15 @@ java.lang.InterruptedException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-05 14:28:30.741
 !MESSAGE executing callback sts4.classpath.UgLfgdGn SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-05 16:23:15.667
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.UgLfgdGn
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-05 16:23:15.674
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.UgLfgdGn
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-05 16:23:15.674
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-05 16:23:15.674
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.UgLfgdGn => OK
