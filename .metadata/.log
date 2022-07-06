@@ -5467,3 +5467,18 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-06 12:03:36.118
 !MESSAGE executing callback sts4.classpath.FqXdSrBn SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-06 14:19:51.535
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-06 14:19:51.542
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-06 14:19:51.542
+!MESSAGE buffering callback sts4.classpath.FqXdSrBn Abstraction false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-06 14:19:51.543
+!MESSAGE executing callback sts4.classpath.FqXdSrBn 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-06 14:19:51.546
+!MESSAGE executing callback sts4.classpath.FqXdSrBn SUCCESS [done]
