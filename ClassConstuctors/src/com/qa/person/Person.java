@@ -15,5 +15,12 @@ public class Person {
 		this.eyeColour = eyeColour;
 		this.age = age;
 	}
+
+	@Override
+	public String toString() {
+		return "Person [name=" + name + ", eyeColour=" + eyeColour + ", age=" + age + "]";
+	}
+	
+	
 	
 }
